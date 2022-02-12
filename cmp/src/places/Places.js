@@ -3,7 +3,7 @@ import './Places.css';
 
 function Places() {
   return (
-    <div>
+    <div className='places'>
         <h1>Places nereby</h1>
     </div>
   );

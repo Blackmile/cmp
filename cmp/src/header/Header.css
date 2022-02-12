@@ -1,0 +1,13 @@
+.header {
+    width: 100%;
+    margin: 10px;
+    margin-right: 10px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+.header_details {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}

@@ -1,0 +1,27 @@
+.app{
+    display: grid;
+    place-items: center;
+    font-size: 12px;
+    font-weight: normal;
+    margin: 10px;
+}
+
+.app_container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: bisque;
+}
+
+.map{
+    display: flex;
+    flex-direction: column;
+    color: blue;
+    flex: 0.70;
+}
+
+.people {
+    display: flex;
+    flex-direction: column;
+    color: red;
+    flex: 0.15;
+}

@@ -1,10 +1,12 @@
 import React from 'react';
-import './Map.css'
+import './Map.css';
+import Places from '../places/Places'
 
 function Map() {
   return (
-    <div>
+    <div className='map'>
         <h1>This is the map component</h1>
+        <Places />
     </div>
   );
 }
